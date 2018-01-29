@@ -1,2 +1,2 @@
-# awesome-tensor
-awesome tensor-related libraries and papers.
+# Awesome Tensor
+Awesome tensor-related libraries and papers.
